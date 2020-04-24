@@ -1,0 +1,9 @@
+.popup-img__bigSize {
+    max-width: 80vw;
+    max-height: 80vh; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    box-sizing: border-box;
+    position: relative;
+}

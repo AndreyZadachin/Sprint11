@@ -1,0 +1,10 @@
+@import url('./__job/error__job.css');
+@import url('./__link/error__link.css');
+@import url('./__name/error__name.css');
+@import url('./__title/error__title.css');
+
+.error {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+}
