@@ -1,4 +1,4 @@
-## https://github.com/AndreyZadachin/Sprint11
+## https://AndreyZadachin.github.io/Sprint11
 ======
 ### Yandex.Praktikum Sprint №11
 #### version v1.0.0

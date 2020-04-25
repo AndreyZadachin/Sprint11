@@ -19,7 +19,6 @@ import UserInfo from './script/UserInfo.js';
   
     const token = '909b28bb-3627-43b8-8192-6ead5ebc62fa';
     const baseUrl = process.env.NODE_ENV === 'development' ? 'http://praktikum.tk/cohort9' : 'https://praktikum.tk/cohort9';
-  console.log(baseUrl);
   
     const api = new Api({
       baseUrl: baseUrl,
