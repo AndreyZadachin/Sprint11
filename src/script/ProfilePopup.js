@@ -1,5 +1,7 @@
 /* eslint-disable class-methods-use-this */
-class ProfilePopup extends Popup {
+import Popup from './Popup.js';
+
+export default class ProfilePopup extends Popup {
   constructor({ elem, button, inputName, inputJob, form, userInfo, api }) {
     super(elem);
 

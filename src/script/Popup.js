@@ -1,4 +1,4 @@
-class Popup {
+export default class Popup {
   constructor(elem) {
     this.elem = elem;
     this.open = this.open.bind(this);

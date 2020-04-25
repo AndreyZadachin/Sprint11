@@ -1,5 +1,5 @@
 /* eslint-disable class-methods-use-this */
-class FormValidator {
+export default class FormValidator {
   constructor(form, button) {
     this.form = form;
     this.button = button;

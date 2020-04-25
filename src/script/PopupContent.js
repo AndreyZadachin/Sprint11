@@ -1,4 +1,6 @@
-class PopupContent extends Popup {
+import Popup from './Popup.js';
+
+export default class PopupContent extends Popup {
   constructor({elem, buttonOpen, buttonSave, name, link, card, cardList}) {
     super(elem);
 
