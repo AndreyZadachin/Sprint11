@@ -17,6 +17,6 @@ export default class UserInfo {
   }
 
   getInfo() {
-    return { name: this.userName, job: this.userJob };
+    return { name: this.userName.textContent, job: this.userJob.textContent };
   }
 }
